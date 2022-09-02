@@ -132,4 +132,10 @@ ffmpeg_path.py
 *.mp3
 *.mp4
 *.png 
+*.jpg
 gooey_config.json
+
+#remove google credentials
+client_secret.json
+credentials.storage
+
